@@ -6,5 +6,5 @@
 
 a:active{
     transition: 0.5s;
-    transform: translateY(5px);
+    transform: translateY(2px);
 }
